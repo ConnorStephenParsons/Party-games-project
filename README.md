@@ -2,7 +2,7 @@
 # Party Games
 ![2](https://user-images.githubusercontent.com/32672628/136943994-89c7961f-33a8-4499-b97b-3d197c7095ff.gif)
 
-![INTRO](https://github.coventry.ac.uk/mikalaum/party-games/blob/master/2.gif)
+
 
 Run multiple clients from different terminals to see how it works!
 
@@ -49,9 +49,10 @@ Merge master into the development first so that if there are any conflicts, You 
 # Diagrams
 
 ## Class 
+![classes](https://user-images.githubusercontent.com/32672628/136944319-a3a99c5c-4b03-440d-903c-ba9ff88daacb.png)
 
-![Class](https://github.coventry.ac.uk/mikalaum/party-games/blob/Dev/diagrams/classes.png)
+
 
 ## Network
+![Network-User-communication](https://user-images.githubusercontent.com/32672628/136944446-ee72be08-add2-4faf-9e74-30a2e6e1effb.png)
 
-![Network](https://github.coventry.ac.uk/mikalaum/party-games/blob/Dev/diagrams/Network-User-communication.png)
