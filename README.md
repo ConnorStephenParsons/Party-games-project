@@ -1,5 +1,6 @@
 # Party-games-project
 # Party Games
+![2](https://user-images.githubusercontent.com/32672628/136943994-89c7961f-33a8-4499-b97b-3d197c7095ff.gif)
 
 ![INTRO](https://github.coventry.ac.uk/mikalaum/party-games/blob/master/2.gif)
 
